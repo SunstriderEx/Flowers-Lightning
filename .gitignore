@@ -1,0 +1,78 @@
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+
+Подсветка растений. Настройка/*.user
+Подсветка растений. Настройка/[Bb]in/
+Подсветка растений. Настройка/[Oo]bj/
+Подсветка растений. Настройка/.vs/
+
+# ====================== #
+# Keil uVision generated #
+# ====================== #
+
+Flowers Lightning Keil uVision Project/Objects/
+
+*.TMP
+*.uvguix*
+
+# ===== #
+# EAGLE #
+# ===== #
+
+# Ignore list for Eagle, a PCB layout tool
+
+# Backup files
+*.s#?
+*.b#?
+*.l#?
+
+# Eagle project file
+# It contains a serial number and references to the file structure
+# on your computer.
+# comment the following line if you want to have your project file included.
+#eagle.epf
+
+# Autorouter files
+*.pro
+*.job
+
+# CAM files
+*.$$$
+*.cmp
+*.ly2
+*.l15
+*.sol
+*.plc
+*.stc
+*.sts
+*.crc
+*.crs
+
+*.dri
+*.drl
+*.gpi
+*.pls
+
+*.drd
+*.drd.*
+
+*.info
+
+*.eps
+
+# file locks introduced since 7.x
+*.lck
+
+# ============ #
+# OS generated #
+# ============ #
+
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+#Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Tt]humbs.db.meta
